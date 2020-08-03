@@ -41,10 +41,7 @@
 </g>
 <defs>
 	<style>
-		.st0{fill:none;}
-	        .st1{fill:#1B1464;}
-	        .st2{font-family:'BrushScriptMT';}
-	        .st3{font-size:60px;}
+		
 		.st1{
 			stroke-dasharray: 800;
 			stroke-dashoffset: 800;
