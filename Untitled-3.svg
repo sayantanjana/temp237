@@ -39,8 +39,7 @@
 		
 	</g>
 </g>
-<defs>
-	<style>
+<style>
 		.st0{fill:none;}
 	        .st1{fill:#1B1464;}
 	        .st2{font-family:'BrushScriptMT';}
@@ -61,6 +60,5 @@
 			-moz-animation: dash 1s linear forwards 0.5s;
 			animation: dash 1s linear forwards 0.5s;
 		}
-	</style>
-</defs>		
+</style>	
 </svg>
