@@ -4,7 +4,7 @@
 	 viewBox="0 0 550 400" style="enable-background:new 0 0 550 400;" xml:space="preserve">
 
 <rect x="133.47" y="304.47" class="st0" width="306.89" height="51.57"/>
-<text transform="matrix(1 0 0 1 133.4683 339.0273)" class="st1 st2 st3">Sayantan jana</text>
+<text transform="matrix(1 0 0 1 133.4683 339.0273)" class="st1 st2 st3 st4" stroke-width="10">Sayantan jana</text>
 <g>
 	<g>
 		<path class="st1" d="M290.14,66.33c-27.91,11.11-54.95,24.28-80.75,39.69c-12.69,7.57-25.52,15.43-37.26,24.43
@@ -52,7 +52,7 @@
 			-moz-animation: dash 1s linear forwards 0.5s;
 			animation: dash 1s linear forwards 0.5s;
 		}
-		.st2{
+		.st4{
 			stroke-dasharray: 800;
 			stroke-dashoffset: 800;
 			-webkit-animation: dash 1s linear forwards 0.5s;
